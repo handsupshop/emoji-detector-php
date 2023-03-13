@@ -1,5 +1,5 @@
 {
-  "name": "p3k/emoji-detector",
+  "name": "fbbuy/emoji-detector",
   "description": "Detect and return all emoji found in a string",
   "type": "library",
   "license": "MIT",
@@ -24,7 +24,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": ">=7.2",
+    "php": ">=7.1",
     "ext-mbstring": "*"
   },
   "require-dev": {
